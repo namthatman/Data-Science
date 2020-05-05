@@ -2,7 +2,7 @@
 '''
 Created on Tue May  5 13:55:36 2020
 
-@author: hnvip
+@author: namthatman
 '''
 
 # House Prices: Advanced Regression Techniques
