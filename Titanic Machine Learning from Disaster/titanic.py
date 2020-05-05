@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 26 20:18:41 2020
 
-@author: hnvip
+@author: namthatman
 """
 
 # Titanic: Machine Learning from Disaster
