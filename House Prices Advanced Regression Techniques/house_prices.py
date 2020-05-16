@@ -7,6 +7,7 @@ Created on Tue May  5 13:55:36 2020
 
 # House Prices: Advanced Regression Techniques
 
+# Inspired the wonderful cleaning techniques from the notebook by Serigne: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard?fbclid=IwAR1XYPFNe5UGc8YjGaLE4tUzBC_YccObll6HV9d9DToGgmRkkdE6AM4nuaY
 
 # How to get the Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
