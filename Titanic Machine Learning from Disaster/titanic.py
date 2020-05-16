@@ -7,8 +7,7 @@ Created on Thu Mar 26 20:18:41 2020
 
 # Titanic: Machine Learning from Disaster
 
-# Inspired the wonderful cleaning techniques from the notebook by Manav Sehgal: https://www.kaggle.com/startupsci/titanic-data-science-solutions?fbclid=IwAR1EyFMhML2Iy42wCuj-Wld4O6lPNkcThqgjIZcxHVPKr5kUe0PDuDQ-MpY
-
+# Inspired the wonderful cleaning techniques from the notebook by Manav Sehgal: https://www.kaggle.com/startupsci/titanic-data-science-solutions
 # How to get the Dataset: https://www.kaggle.com/c/titanic/data
 
 
