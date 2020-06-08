@@ -1,2 +1,2 @@
 # Data Science
-Kaggle Challenges
+Data Science projects/challenges
