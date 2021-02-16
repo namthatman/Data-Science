@@ -1,2 +1,2 @@
 # Data Science
-Data Science projects/challenges
+My collection of Data Science projects.
